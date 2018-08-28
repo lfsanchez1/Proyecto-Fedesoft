@@ -1,0 +1,38 @@
+.div30{
+	border:solid;
+	float:left;
+	width:30%;
+	/*background-color:red;*/
+	height:100px; 
+	text-align:center;       	
+	line-height: 100px;
+}
+.div70{        
+	border:solid;
+	float:left;	
+	margin-left:2px;
+	/*background-color:blue;*/
+	height:100px;
+	width:68%;
+	text-align:center;       	        	
+	
+}
+.frase{        
+	border:solid;
+	float:left;		
+	/*background-color:blue;*/
+	height:50px;
+	width:68%;
+}
+
+.body{
+	margin:2px;        	
+	border:solid;
+	float:left;
+	height:350px;
+	width:99%;
+	/*background-color:green;*/        	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
